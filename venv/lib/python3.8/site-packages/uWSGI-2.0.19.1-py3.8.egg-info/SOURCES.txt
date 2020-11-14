@@ -1,0 +1,7 @@
+README
+setup.py
+uwsgidecorators.py
+uWSGI.egg-info/PKG-INFO
+uWSGI.egg-info/SOURCES.txt
+uWSGI.egg-info/dependency_links.txt
+uWSGI.egg-info/top_level.txt
